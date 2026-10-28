@@ -96,7 +96,27 @@ Apache Spark is used in local mode to demonstrate Spark DataFrame operations. Th
 
 \- Use a real, appropriately licensed retail dataset.
 
+## Project Results
 
+The project analyzes retail sales transactions using Python and Apache Spark.
+
+The analysis includes:
+- Data exploration and cleaning
+- Revenue and transaction metrics
+- Revenue by product category
+- Monthly sales trends
+- Regional sales comparisons
+- Spark DataFrame aggregations
+
+### Screenshots
+
+See the [`screenshots`] folder for implementation outputs and visualizations.
+
+### Project Limitations
+
+- The dataset contains synthetic sample transactions created for educational purposes.
+- Apache Spark runs in local mode; this project does not use a multi-node cluster.
+- The results demonstrate analytical methods and are not findings from a real retailer.
 
 \## Author
 
